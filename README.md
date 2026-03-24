@@ -46,7 +46,7 @@ docker login testdemov1-dyg8a5cvfkhjgjee.azurecr.io
 
 <p align="center">
   <a href="">
-    <img src="./assets/container-apps.png" width="650" height="700"  alt="ally" style="margin: 0 15px;" />
+    <img src="./assets/container-apps.png" width="650" height="900"  alt="ally" style="margin: 0 15px;" />
   </a>
 </p>
 
